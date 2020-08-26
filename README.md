@@ -30,7 +30,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.importnew.com/members/huanglimin/)、[atupal](http://www.importnew.com/members/atupal/)、[rainbow](http://www.importnew.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.importnew.com/members/beyondwu/)、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、[冰斌](http://www.importnew.com/members/libing1209/)、[赵叶宇](http://www.importnew.com/members/nelsonzhao/)、[л stalgic](http://www.importnew.com/members/fengfeng19910805/)、[硕恩](http://www.importnew.com/members/shawnw/)、[strongit](https://github.com/strongit)、[yuukilp](http://www.importnew.com/members/yuukilp/)、[chenjiandongx](https://github.com/chenjiandongx)、[autopenguin](https://github.com/autopenguin)、[visonforcoding](https://github.com/visonforcoding)、[Super赛亚人](https://github.com/No-96)、[Since-future](https://github.com/Since-future)、[knktc](https://github.com/knktc)
+- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.importnew.com/members/huanglimin/)、[atupal](http://www.importnew.com/members/atupal/)、[rainbow](http://www.importnew.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.importnew.com/members/beyondwu/)、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、[冰斌](http://www.importnew.com/members/libing1209/)、[赵叶宇](http://www.importnew.com/members/nelsonzhao/)、[л stalgic](http://www.importnew.com/members/fengfeng19910805/)、[硕恩](http://www.importnew.com/members/shawnw/)、[strongit](https://github.com/strongit)、[yuukilp](http://www.importnew.com/members/yuukilp/)、[chenjiandongx](https://github.com/chenjiandongx)、[autopenguin](https://github.com/autopenguin)、[visonforcoding](https://github.com/visonforcoding)、[Super赛亚人](https://github.com/No-96)、[Since-future](https://github.com/Since-future)、[knktc](https://github.com/knktc)、[zhucebuliaopx](https://github.com/zhucebuliaopx)、[wardseptember](https://github.com/wardseptember)
 
 注：名单不分排名，不定期补充更新
 
@@ -417,6 +417,7 @@ Python 实现的数据库。
 *   web2py：一个全栈 web 框架和平台，专注于简单易用。[官网](http://www.web2py.com/)
 *   [Tornado](http://hao.importnew.com/tornado/)：一个 web 框架和异步网络库。[官网](http://www.tornadoweb.org/en/latest/)
 *   sanic：基于 Python3.5+ 的异步网络框架。[官网](https://github.com/channelcat/sanic/)
+*   starlette: 一款轻量级，高性能的 ASGI 框架  🌟。 [官网](https://www.starlette.io/)
 
 ### 权限
 
@@ -633,7 +634,8 @@ Python 实现的数据库。
 *   micawber：一个小型网页内容提取库，用来从 URLs 提取富内容。[官网](https://github.com/coleifer/micawber) 
 *   [newspaper](http://hao.importnew.com/python-newspaper/)：使用 Python 进行新闻提取，文章提取以及内容策展。[官网](https://github.com/codelucas/newspaper)
 *   opengraph：一个用来解析开放内容协议(Open Graph Protocol)的 Python 模块。[官网](https://github.com/erikriver/opengraph)
-*   [python-goose](http://hao.importnew.com/python-goose/)：HTML 内容/文章提取器。[官网](https://github.com/grangier/python-goose)
+*   [python-goose](http://hao.importnew.com/python-goose/)：HTML 内容/文章提取器(python2)。[官网](https://github.com/grangier/python-goose)
+*   [goose3](http://goose3.readthedocs.io/en/latest/index.html):  HTML 内容/文章提取器(python3)。[官网](https://github.com/goose3/goose3)
 *   python-readability：arc90 公司 readability 工具的 Python 高速端口。[官网](https://github.com/buriy/python-readability)
 *   sanitize：为杂乱的数据世界带来调理性。[官网](https://github.com/Alir3z4/python-sanitize)
 *   sumy：一个为文本文件和 HTML 页面进行自动摘要的模块。[官网](https://github.com/miso-belica/sumy)
@@ -1097,132 +1099,4 @@ MapReduce 框架和库。
 
 不属于上面任何一个类别，但是非常有用的库。
 
-*   blinker：一个快速的 Python 进程内信号/事件分发系统。[官网](https://github.com/jek/blinker)
-*   itsdangerous：一系列辅助工具用来将可信的数据传入不可信的环境。[官网](https://github.com/pallets/itsdangerous)
-*   pluginbase：一个简单但是非常灵活的 Python 插件系统。[官网](https://github.com/mitsuhiko/pluginbase)
-*   Pychievements：一个用来创建和追踪成就的 Python 框架。[官网](https://github.com/PacketPerception/pychievements)
-*   [Tryton](http://hao.importnew.com/tryton/)：一个通用商务框架。[官网](http://www.tryton.org/)
-
-### 算法和设计模式
-
-Python 实现的算法和设计模式。
-
-*   [algorithms](http://hao.importnew.com/algorithms/)：一个 Python 算法模块。[官网](https://github.com/nryoung/algorithms) 
-*   python-patterns：Python 设计模式的集合。[官网](https://github.com/faif/python-patterns)
-*   sortedcontainers：快速，纯 Python 实现的 SortedList，SortedDict 和 SortedSet 类型。[官网](http://www.grantjenks.com/docs/sortedcontainers/)
-*   Python：使用Python实现的算法大全。[官网](https://github.com/TheAlgorithms/Python)
-
-### 编辑器插件
-
-编辑器和 IDE 的插件
-
-*   Emacs
-    *   Elpy：Emacs Python 开发环境。[官网](https://github.com/jorgenschaefer/elpy)
-*   Sublime Text
-    *   SublimeJEDI：一个 Sublime Text 插件，用来使用超赞的自动补全库 Jedi。[官网](https://github.com/srusskih/SublimeJEDI)
-    *   Anaconda：Anaconda 把你的 Sublime Text 3 变成一个功能齐全的 Python IDE。[官网](https://github.com/DamnWidget/anaconda)
-*   Vim
-    *   [YouCompleteMe](http://hao.importnew.com/youcompleteme/)：引入基于 [Jedi](https://github.com/davidhalter/jedi) 的 Python 自动补全引擎。[官网](https://github.com/Valloric/YouCompleteMe)
-    *   Jedi-vim：绑定 Vim 和 Jedi 自动补全库对 Python 进行自动补全。[官网](https://github.com/davidhalter/jedi-vim)
-    *   Python-mode：将 Vim 变成 Python IDE 的一款多合一插件。[官网](https://github.com/klen/python-mode)
-*   Visual Studio
-    *   PTVS：Visual Studio 的 Python 工具。[官网](https://github.com/Microsoft/PTVS)
-
-### 集成开发环境
-
-流行的 Python 集成开发环境。
-
-*   PyCharm：商业化的 Python IDE ，由 JetBrains 开发。也有免费的社区版提供。[官网](https://www.jetbrains.com/pycharm/)
-*   LiClipse：基于 Eclipse 的免费多语言 IDE 。使用 PyDev 来支持 Python 。[官网](http://www.liclipse.com/)
-*   Spyder：开源 Python IDE。[官网](https://github.com/spyder-ide/spyder)
-
-### 自动聊天工具
-
-用于开发聊天机器人的库
-
-*   Errbot：最简单和最流行的聊天机器人用来实现自动聊天工具。[官网](http://errbot.io/en/latest/)
-
-## 服务
-
-在线工具和简化开发的 API 。
-
-### 金融数据
-
-* Tushare ：一个可以提供免费股票、基金、期货、港股等金融数据的 Python 开源数据。[官网](http://tushare.org)
-* Ta-Lib ：金融数据技术分析库，可以依据原始金融数据计算各种技术指标,计算性能比较优异。[官网](https://www.ta-lib.org/)
-
-### 持续集成
-
-参见: [awesome-CIandCD](https://github.com/ciandcd/awesome-ciandcd#online-build-system).
-
-*   Travis CI：一个流行的工具，为你的开源和 [私人](https://travis-ci.com/) 项目提供持续集成服务。(仅支持 GitHub)[官网](https://travis-ci.org/)
-*   CircleCI：一个持续集成工具，可以非常快速的进行并行测试。 (仅支持 GitHub)[官网](https://circleci.com/)
-*   Vexor CI：一个为私人 app 提供持续集成的工具，支持按分钟付费。[官网](https://vexor.io/)
-*   Wercker：基于 Docker 平台，用来构建和部署微服务。[官网](http://wercker.com/)
-
-### 代码质量
-
-*   Codacy：自动化代码审查，更加快速的发布高质量代码。对于开源项目是免费的。[官网](https://www.codacy.com/)
-*   QuantifiedCode：一个数据驱动、自动、持续的代码审查工具。[官网](https://www.quantifiedcode.com/)
-
-## 资源
-
-在这里可以找到新的 Python 库。
-
-### 网站
-
-*   [r/Python](https://www.reddit.com/r/python)
-*   [CoolGithubProjects](https://www.coolgithubprojects.com/)
-*   [Django Packages](https://www.djangopackages.com/)
-*   [Full Stack Python](http://www.fullstackpython.com/)
-*   [Python 3 Wall of Superpowers](http://python3wos.appspot.com/)
-*   [Python Hackers](http://pythonhackers.com/open-source/)
-*   [Python ZEEF](https://python.zeef.com/alan.richmond)
-*   [Trending Python repositories on GitHub today](https://github.com/trending?l=python)
-*   [PyPI Ranking](http://pypi-ranking.info/alltime)
-
-### 周刊
-
-*   [Import Python Newsletter](http://importpython.com/newsletter/)
-*   [Pycoder's Weekly](http://pycoders.com/)
-*   [Python Weekly](http://www.pythonweekly.com/)
-
-### Twitter
-
-*   [@codetengu](https://twitter.com/codetengu)
-*   [@getpy](https://twitter.com/getpy)
-*   [@planetpython](https://twitter.com/planetpython)
-*   [@pycoders](https://twitter.com/pycoders)
-*   [@pypi](https://twitter.com/pypi)
-*   [@pythontrending](https://twitter.com/pythontrending)
-*   [@PythonWeekly](https://twitter.com/PythonWeekly)
-
-### 学习指南
-*   [Scipy-lecture-notes](http://hao.importnew.com/scipy-lecture-notes/)：如何用 Python 来做学术？[官网](https://github.com/scipy-lectures/scipy-lecture-notes)
-*   [SScientific-python-lectures](http://hao.importnew.com/scientific-python-lectures/)：Python 科学计算的资料。[官网](https://github.com/jrjohansson/scientific-python-lectures)
-*   [Mario-Level-1](http://hao.importnew.com/mario-level-1/)：用 Python 和 Pygame 写的超级马里奥第一关。[官网](https://github.com/justinmeister/Mario-Level-1)
-*   [Python Koans](http://hao.importnew.com/python-koans/)：Python 的交互式学习工具。[官网](https://github.com/gregmalcolm/python_koans)
-*   [Minecraft](http://hao.importnew.com/minecraft-python/)：用 python 写的 Minecraft 游戏。[官网](https://github.com/fogleman/Minecraft)
-*   [pycrumbs](http://hao.importnew.com/python-pycrumbs/)：Python 资源大全。[官网](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
-*   [python-patterns](http://hao.importnew.com/python-patterns/)：使用 python 实现设计模式。[官网](https://github.com/faif/python-patterns)
-*   [Projects](http://hao.importnew.com/python-projects/)：Python 项目大集合。[官网](https://github.com/karan/Projects)
-*   [The Hitchhiker’s Guide to Python](http://hao.importnew.com/the-hitchhikers-guide-to-python/)：旅行者的 Python 学习指南。[官网](http://docs.python-guide.org/en/latest/)
-*	[Code Like a Pythonista: Idiomatic Python](http://top.importnew.com/18767/)：如何像 Python 高手(Pythonista)一样编程。[官网](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
-
-<h3 id="websites">知名网站</h3>
-
-*值得关注的 Python 技术站点。*
-
-<h4>中文站点</h4>
-
-* 伯乐在线 Python 频道：分享 Python 开发技术、相关的行业动态。[官网](http://python.importnew.com/)
-
-<h4>英文站点</h4>
-
-* 《[值得关注的 10 个 Python 英文博客](http://python.importnew.com/81730/)》
-
-<h3 id="weibo-weixin">微博、微信公众号</h3>
-
-* Python开发者 微博：[@Python开发者](http://weibo.com/u/5305630013)
-* Python开发者：人生苦短，我用 Python。Python 越来越受广大程序员的喜爱。「Python开发者」是最受欢迎的、专注分享 Python 技术的微信公众号，主要分享 Python 相关的技术文章、工具资源和资讯等。
-<br><img src="http://ww3.sinaimg.cn/small/63918611gw1epb2cbm6cmj2046046wek.jpg" width=150 height=150>
+*   blinker
